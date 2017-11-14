@@ -51,6 +51,16 @@ permalink: /
   {% include sections/{{section.tpl}} %}
 </section>
 {% endfor %}
+
+$.i18n.init(
+  resGetPath: 'locales/__lng__.json',
+  load: 'unspecific',
+  fallbackLng: false,
+  lng: 'en'
+}, function (t)
+  $('#i18_title').i18n();
+});
+
 <style>
 iframe {
   -moz-transform: scale(0.25, 0.25);
