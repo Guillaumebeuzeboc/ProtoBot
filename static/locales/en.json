@@ -6,7 +6,7 @@
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
-    "projects": "Projects",
+    "projects": "Services",
     "career": "Your prototype",
     "blog": "Blog",
     "link": "Link"
@@ -19,10 +19,10 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "my_projects": "Services",
+    "Prototype": "I build the prototype you need for your start-up.",
+    "Consulting": "I can bring my expertise in robotics, programming and mechatronics.",
+    "Training": "Training around robotics with simulation and real robots (with ROS)."
   },
   "career":{
     "my_career": "Your prototype",
@@ -39,7 +39,7 @@
     "conception_date": "Include updates and meetings ",
     "conception_job": "",
     "delivery": "Delivery",
-    "delivery_des": "Time to deliver your product and make sure all your expecation are satisfied",
+    "delivery_des": "Time to deliver your product and make sure all your expectation are satisfied",
     "delivery_date": "",
     "delivery_job": ""
   },

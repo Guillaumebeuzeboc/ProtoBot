@@ -6,7 +6,7 @@
     "home": "Home",
     "about_me": "A propos",
     "skills": "Competances",
-    "projects": "Projets",
+    "projects": "Services",
     "career": "Conception de votre proptotype",
     "blog": "Blog",
     "link": "Liens"
@@ -19,14 +19,14 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "my_projects": "Services",
+    "Prototype": "Conception du prototype dont vous avez besoin pour votre start-up.",
+    "Consulting": "Expertise en robotique, programmation et mecatronique.",
+    "Training": "Formation autour de la robotique avec simulation et robots a manipuler (avec ROS)."
   },
   "career":{
     "my_career": "Votre prototype",
-    "firststudy": "pré-étude",
+    "firststudy": "Pré-étude",
     "firststudy_des": "Premièrement nous allons définir ensemble quel sont exactement les besoins de votre prototype. Nous définison les spécifications de votre produit",
     "firststudy_date": "Première réunion",
     "firststudy_job": "",
@@ -36,10 +36,10 @@
     "study_job": "",
     "conception": "Conception",
     "conception_des": "Developement de votre produit.",
-    "conception_date": "Include updates and meetings ",
+    "conception_date": "Incluant points d'avancement",
     "conception_job": "",
-    "delivery": "Delivery",
-    "delivery_des": "Time to deliver your product and make sure all your expecation are satisfied",
+    "delivery": "Livraison",
+    "delivery_des": "Livraison de votre prototype",
     "delivery_date": "",
     "delivery_job": ""
   },
