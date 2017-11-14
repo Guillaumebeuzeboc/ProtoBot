@@ -9,11 +9,11 @@
     "projects": "Services",
     "career": "Conception de votre proptotype",
     "blog": "Blog",
-    "link": "Liens"
+    "link": "Contact"
   },
   "about_me":{
     "about_me": "About",
-    "des": "I build the prototype you need for your start-up. Bring your idea to life!"
+    "des": "Conception du prototype dont vous avez besoin pour votre start-up. Vos idées prennent vie!"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -47,7 +47,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Contact",
     "view": "views"
   }
 

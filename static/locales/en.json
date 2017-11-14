@@ -9,7 +9,7 @@
     "projects": "Services",
     "career": "Your prototype",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Contact"
   },
   "about_me":{
     "about_me": "About",
@@ -47,7 +47,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Contact",
     "view": "views"
   }
 
