@@ -1,0 +1,54 @@
+{
+  "website":{
+    "title": "Protobot"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "À propos",
+    "skills": "Compétances",
+    "projects": "Services",
+    "career": "Conception de votre prototype",
+    "blog": "Blog",
+    "link": "Contact"
+  },
+  "about_me":{
+    "about_me": "About",
+    "des": "Conception du prototype dont vous avez besoin pour votre start-up. Vos idées prennent vie!"
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "Services",
+    "Prototype": "Conception du prototype dont vous avez besoin pour votre start-up.",
+    "Consulting": "Expertise en robotique, programmation et mécatronique.",
+    "Training": "Formation autour de la robotique avec simulation et robots a manipuler (avec ROS)."
+  },
+  "career":{
+    "my_career": "Votre prototype",
+    "firststudy": "Pré-étude",
+    "firststudy_des": "Premièrement, nous allons définir ensemble quels sont exactement les besoins de votre prototype. Nous définissons les spécifications de votre produit",
+    "firststudy_date": "Première réunion",
+    "firststudy_job": "",
+    "study": "Étude",
+    "study_des": "Définition du cahier des charges de votre prototype. Définition des jalons.",
+    "study_date": "Incluant des points de suivie du projet",
+    "study_job": "",
+    "conception": "Conception",
+    "conception_des": "Développement de votre produit.",
+    "conception_date": "Incluant points d'avancement",
+    "conception_job": "",
+    "delivery": "Livraison",
+    "delivery_des": "Livraison de votre prototype",
+    "delivery_date": "",
+    "delivery_job": ""
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Contact",
+    "view": "views"
+  }
+
+}
