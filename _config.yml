@@ -28,11 +28,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-cogs
     - name: fa-wrench
-  desc: Introduce here.  # Describe yourself.
+  desc: ProtoBot build the prototype you need! # Describe the company/website.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: jalpc
 
 # analytics
 ## google analytics
