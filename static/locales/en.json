@@ -21,7 +21,7 @@
   "projects":{
     "my_projects": "Services",
     "Prototype": "I build the prototype you need for your start-up.",
-    "Consulting": "I can bring my expertise in robotics, programming and mechatronics.",
+    "Consulting": "I bring my expertise in robotics, programming and mechatronics.",
     "Training": "Training around robotics with simulation and real robots (with ROS)."
   },
   "career":{
